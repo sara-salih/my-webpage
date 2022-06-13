@@ -1,0 +1,109 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic);
+
+/* UNIVERSAL */
+ 
+ 
+
+.profile {
+
+  margin: 1em;
+  padding-block-end: 1em;
+  margin-bottom: 1em;
+}
+
+.profile-format{
+  display: flex;
+  align-items: center;
+}
+
+.city {
+  
+  margin: 1em;
+  padding-block-end: 1em;
+  margin-bottom: 1em;
+}
+
+.city-format {
+  display: flex;
+  align-items: center;
+
+}
+
+
+.foreign-language {
+  margin: 1em;
+  padding-block-end: 1em;
+  margin-bottom: 1em;
+}
+
+.Historic-place-1 {
+  margin: 1em;
+  padding-block-end: 1em;
+  margin-bottom: 1em;
+}
+
+.place1-format {
+  display: flex;
+  align-items: center;
+
+}
+
+.Historic-place-2 {
+  margin: 1em;
+  padding-block-end: 1em;
+  margin-bottom: 1em;}
+
+  .place2-format {
+    display: flex;
+    align-items: center;
+  
+  }
+  
+
+.Historic-place-3 {
+  margin: 1em;
+  padding-block-end: 1em;
+  margin-bottom: 1em;
+}
+
+.place3-format {
+  display: flex;
+  align-items: center;
+
+}
+
+.profile-pic {
+  width: 200px;
+}
+
+.city-image {
+  width: 200px;
+}
+
+.Merowe-image {
+width: 200px;
+}
+.Rome-image
+{width: 200px;
+}
+
+.Cappadocia-image
+{width: 200px;}
+
+html,
+body {
+  
+  background-image: url("https://cdn.wallpapersafari.com/44/14/jHJaFL.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 100%;
+  color: aliceblue;
+}
+table{
+  border-collapse: collapse;
+  width: 50%;
+}
+td{
+  border: 2px solid white;
+}
+  
