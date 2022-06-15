@@ -1,119 +1,95 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic);
 
-/* UNIVERSAL */
- 
- 
-img
-{
-
-width: 100%;
-
-
-}
-
-
-table{
-  border-collapse: collapse;
-  width: 100%;
-}
-td {
-  border: 1px solid black
-}
-
-/*
-.profile {
-
-  margin: 1em;
-  padding-block-end: 1em;
-  margin-bottom: 1em;
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIi6g39aDtx0O_L0x4kbIGNtboWbUp6iCW8A&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .profile-format{
+
   display: flex;
   align-items: center;
+  margin-right: 15px;
+}
+.profile-img{
+width: 500px;
+
+text-align: right;
+margin-right: 20px;   
+display: block;
+
+}
+.city-img{
+width: 500px;
+text-align: left;
+margin-left: 20px;
+display: block;
+
+}
+.city-format{
+
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+} 
+
+
+
+.places-img{
+width: 150px;
+height: auto;
+text-align: right;
+margin-left: 20px;
+
 }
 
-.city {
+
+
+table{
+border-collapse: collapse;
+width: 100%;
+}
+td{
+border: 2px solid black;
+margin: 1em;
+padding: 8px;
+
+}
+
+
+.places-foramt {
+  display: flex; 
   
-  margin: 1em;
-  padding-block-end: 1em;
-  margin-bottom: 1em;
-}
-
-.city-format {
-  display: flex;
-  align-items: center;
-
-}
-
-
-.foreign-language {
-  margin: 1em;
-  padding-block-end: 1em;
-  margin-bottom: 1em;
-}
-
-.Historic-place-1 {
-  margin: 1em;
-  padding-block-end: 1em;
-  margin-bottom: 1em;
-}
-
-.place1-format {
-  display: flex;
-  align-items: center;
-
-}
-
-.Historic-place-2 {
-  margin: 1em;
-  padding-block-end: 1em;
-  margin-bottom: 1em;}
-
-  .place2-format {
-    display: flex;
-    align-items: center;
   
   }
   
 
-.Historic-place-3 {
-  margin: 1em;
-  padding-block-end: 1em;
-  margin-bottom: 1em;
-}
-
-.place3-format {
+.place-1{
   display: flex;
   align-items: center;
-
-}
-
-.profile-pic {
-  width: 200px;
-}
-
-.city-image {
-  width: 200px;
-}
-
-.Merowe-image {
-width: 200px;
-}
-.Rome-image
-{width: 200px;
-}
-
-.Cappadocia-image
-{width: 200px;}
-
-html,
-body {
+  margin-right: 15px;
   
-  background-image: url("https://cdn.wallpapersafari.com/44/14/jHJaFL.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  font-size: 100%;
-  color: aliceblue;
+  }
+  
 
-  */
+.place-2{
+display: flex;
+align-items: center;
+margin-right: 15px;
+
+
+
+}
+
+.place-3{
+display: flex;
+align-items: center;
+margin-right: 15px;
+
+}
+
+
+
+
+
+
