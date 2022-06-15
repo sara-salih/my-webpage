@@ -3,7 +3,24 @@
 /* UNIVERSAL */
  
  
+img
+{
 
+width: 100%;
+
+
+}
+
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+td {
+  border: 1px solid black
+}
+
+/*
 .profile {
 
   margin: 1em;
@@ -98,12 +115,5 @@ body {
   background-size: cover;
   font-size: 100%;
   color: aliceblue;
-}
-table{
-  border-collapse: collapse;
-  width: 50%;
-}
-td{
-  border: 2px solid white;
-}
-  
+
+  */

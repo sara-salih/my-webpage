@@ -13,7 +13,7 @@
   }
 }
 
-.profile {
+/* .profile {
   background-color: lightcyan;
   margin: 1em;
   padding-block-end: 1em;
@@ -27,14 +27,16 @@
 
 .city {
   width: 10px;
-}
+} */
 
 html,
 body {
-  
-  background-image: url("https://smile904.fm/wp-content/uploads/2020/08/capetown.jpg");
+
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIi6g39aDtx0O_L0x4kbIGNtboWbUp6iCW8A&usqp=CAU");
   background-repeat: no-repeat;
   background-size: cover;
+
+  
 }
 
 
@@ -267,21 +269,3 @@ p {
     width: 75%;
     max-width: 60rem;
   }
-}
-.profile-pic {
-  width: 200px;
-}
-
-.city-image {
-  width: 200px;
-}
-
-.Merowe-image {
-width: 200px;
-}
-.Rome-image
-{width: 200px;
-}
-
-.Cappadocia-image
-{width: 200px;}
